@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: DIGIT Lab # Website name
-baseURL: 'https://digit.engr.tamu.edu/' # Website URL
+baseURL: 'https://daicongda.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
